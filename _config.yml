@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Andre Nogueira de Souza"
+name                     : "Andrea Manoppo"
 description              : "You are enough."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Manoppo"
-  avatar           : "/img/Barcelona"
+  avatar           : "/img/Barcelona.png"
   bio              : "A first generation American of Indonesian descent, biomedical engineer by training. World dance enthusiast."
   location         : "Cambridge, MA"
   links:
