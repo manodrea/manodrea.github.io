@@ -2,8 +2,8 @@
 main:
   - title: "Shop Collection"
     url: /Collection/
-#  - title: "Shop Collection"
-#    url: /about/
+  - title: "Origin Story"
+    url: /Origin Story/
 
 header:
   image: /img/Barcelona.png
