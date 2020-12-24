@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header:
-  image: /img/Barcelona.png
+  image: /img/Upcycling.png
 
 ---
 

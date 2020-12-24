@@ -2,5 +2,8 @@
 main:
   - title: "Shop Collection"
     url: /Collection/
-#  - title: "About"
+#  - title: "Shop Collection"
 #    url: /about/
+
+header:
+  image: /img/Barcelona.png
