@@ -7,4 +7,6 @@ toc_label: "Table of Contents"
 author_profile: true
 ---
 
-## 
+
+header:
+  image: /img/Barcelona.png
