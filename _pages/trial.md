@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 ## Education
-PhD University of Michigan 2016
+Masters University of Michigan 2016
