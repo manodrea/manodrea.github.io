@@ -4,6 +4,7 @@ permalink: /Origin Story/
 layout: single # splash
 toc: true
 toc_label: "Table of Contents"
+image: /img/Barcelona.png/
 author_profile: true
 ---
 
@@ -15,4 +16,4 @@ My initial delve into the study of natural oils and bespoke perfumery are inspir
 
 
 
-/img/Barcelona.png
+/img/Barcelona.png/
