@@ -14,5 +14,5 @@ author_profile: true
 
 > 
 
- > My handmade silk and floral ornaments are designed to be accompanied by my fragrances, or worn alone. Originally influenced by the cultural flavors and intimacies of world dances, it is my goal to bring these traditional crafts into a modern context and create specially made ornaments that smell of freshly cut bouquets or bring fond memories of our journeys that celebrate the natural world.
+ > My handmade silk and floral ornaments are designed to be accompanied by my fragrances, or worn alone. Originally influenced by the intimacies of world dance and theatre, it is my goal to bring these traditional crafts into a modern context and create specially made ornaments that smell of freshly cut bouquets or bring fond memories of our journeys that celebrate the natural world.
 

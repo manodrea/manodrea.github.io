@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about/
+title: Custom Projects
+permalink: /Custom Projects/
 toc: true
 layout: single
 author_profile: true
