@@ -1,10 +1,14 @@
 # main links
 main:
+  - title: "KATHARSIS"
   - title: "Shop Collection"
     url: /Collection/
+  - title: "Custom Projects"
+    url: /CustomProjects/
   - title: "Origin Story"
     url: /Origin Story/
+  - title: "Blog & Instagram"
+    url: /Social Media/
 
 header:
   image: /img/Barcelona.png/
-  
