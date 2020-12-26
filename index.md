@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header: 
-  image: /img/Upcycling.png
+  image: /img/TITLE.png
 
 ---
 
