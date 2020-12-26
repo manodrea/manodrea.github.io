@@ -8,9 +8,7 @@ header:
 
 NATURAL PERFUMERY
 >
- I create natural fragrances, using distilled plant and flower essences that I collect from around the world. The sights, tastes, and smells of an early childhood spent in Indonesia as a child and my travels around the Earth throughout adulthood inspires all the scents that I lovingly brew in my home. I take notes on the In my experience, it is the scent of natural flora and herbs that most vividly transports ones consciousness to those certain magical moments in life.
->
- I strive to create fragrances that convey the most unique experiences and free from parabens, petrochemicals, glycols, and harmful synthetic chemicals. 
+ I create natural fragrances, using distilled plant and flower essences that I collect from around the world. The sights, tastes, and smells of an early childhood spent in Indonesia as a child and my travels around the Earth throughout adulthood inspires all the scents that I lovingly brew in my home. In my experience, it is the scent of natural flora and herbs that most vividly transports ones consciousness to those certain magical moments in life. 
  
 HANDMADE ACCESORIES 
 >
