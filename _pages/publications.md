@@ -7,7 +7,8 @@ toc_label: "Table of Contents"
 image: /img/Barcelona.png/
 author_profile: true
 ---
-
+header: 
+  image: /img/Barcelona.png
 
 > My initial delve into the study of natural oils and bespoke perfumery was inspired by my experiences in Argentine tango and experiencing a plethora of the natural and perfumed smells of men and women dancing at dusk together in the ronda (a circular line of dance by which people dance tango socially in milongas, a style of venue that originated in Buenos Aires). I strive to create fragrances that convey the most unique experiences and are as natural as possible: free from parabens, petrochemicals, glycols, or harmful synthetic chemicals.
 
@@ -15,5 +16,3 @@ author_profile: true
 
  > My handmade silk and floral ornaments are designed to be accompanied by my fragrances, or worn alone. Originally influenced by the cultural flavors and intimacies of world dances, it is my goal to bring these traditional crafts into a modern context and create specially made ornaments that smell of freshly cut bouquets or bring fond memories of our journeys that celebrate the natural world.
 
-
-/img/Barcelona.png/
