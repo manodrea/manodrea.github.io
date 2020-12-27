@@ -8,5 +8,5 @@ image: /img/Barcelona.png/
 author_profile: true
 ---
 
-> Coming soon!
+> Currently in the very early stages of building my platform. Right now, I share my creations with friends. I haven't yet decided whether to fully move into e-commerce, but do stay tuned :) 
 
