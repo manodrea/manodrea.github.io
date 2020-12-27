@@ -8,7 +8,8 @@ image: /img/Barcelona.png/
 author_profile: true
 ---
 
-> 
+> ***
+
  ![](/img/Barcelona.png) 
 
 > My initial delve into the study of natural oils and bespoke perfumery was inspired by my experiences in Argentine tango and experiencing a plethora of the natural and perfumed smells of men and women dancing at dusk together in the ronda (a circular line of dance by which people dance tango socially in milongas, a style of venue that originated in Buenos Aires). I strive to create fragrances that convey the most unique experiences and are as natural as possible: free from parabens, petrochemicals, glycols, or harmful synthetic chemicals.
