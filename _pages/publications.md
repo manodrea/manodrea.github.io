@@ -16,9 +16,9 @@ author_profile: true
 
 ![](/img/AAtango.png) 
 
-> My collection of handmade accessories is inspired by my experiences of growing up in Indonesia and studying the traditional dances of Central Java and Bali from an early age. As a dancer, I was fascinated with the tradition of donning elaborately fragrant flowers and "hiasan" hair ornaments. Dances were accompanied by skilled musicians that wore batik caps scented of local sandalwood and patchouli. From another special time in my life, I was inspired by the tradition of Japanese tea ceremony in the courtyards of the Edo-period Nagoya castle. The grace of the silk kanzashi, hanging floral ornaments that traditionally accesorize the Japanese kimono, lent to me and worn by the hosts left a strong impression in my memories.
+> My collection of handmade accessories is inspired by my experiences of growing up in Indonesia and studying the traditional dances of Central Java and Bali from an early age. As a dancer, I was fascinated with the tradition of donning elaborately fragrant flowers and "hiasan" hair ornaments. Dances were accompanied by skilled musicians that wore batik caps scented of local sandalwood and patchouli. In addition, I was inspired by the tradition of Japanese tea ceremony from my time in the courtyards of an Edo-period castle in Nagoya. The grace of the silk kanzashi, hanging floral ornaments that traditionally accesorize the Japanese kimono, lent to me and worn by the hosts left a strong impression.
 
 ![](/img/Tea Ceremony.jpg) 
 
- > My handmade silk and floral ornaments are designed to be accompanied by my fragrances, or worn alone. Originally influenced by the intimacies of world dance, travel, and theatre: it is my goal to bring these traditional crafts into a modern context and create specially made ornaments that smell of freshly cut bouquets or bring fond memories of our journeys celebrating the natural world.
+ > My handmade silk and floral ornaments are designed to be accompanied by my fragrances, or worn alone. Originally influenced by the intimacies of world dance, travel, and theatre: it is my goal to bring these traditional crafts into a modern context and create special ornaments that smell of freshly cut bouquets or bring forth fond memories of our journeys celebrating the natural world.
 
