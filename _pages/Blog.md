@@ -1,13 +1,15 @@
 ---
 title: Thoughts, Journeys, & Favorite Things
 permalink: /Blog/
-layout: default
+layout: single
 toc: true
 toc_label: "Table of Contents"
 image: /img/Barcelona.png/
 author_profile: true
-
 ---
+
+> Welcome to my site's blog. I plan to using this platform to start an informational blog. I am particularly interested in botanical and perfume history so I plan to create a series of entries that I call "Ode to a Note". Each entry will explore a little history and list of factoids of botanical notes that I like to use, with a little personal commentary. 
+
 <h1>Latest Posts</h1>
 
 <ul>
@@ -22,7 +24,7 @@ author_profile: true
 ---
 
 
-> I am pretty reluctant to make videos, however I do quite like the idea of using this platform to start an informational blog. I am particularly interested in botanical and perfume history so I plan to create a series of entries that I call "Ode to a Note". Each entry will explore a little history and list of factoids of botanical notes that I like to use, with a little personal commentary. 
+
 
 
 ***
