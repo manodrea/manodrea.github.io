@@ -2,7 +2,7 @@
 title: Custom Projects
 permalink: /Commissions/
 layout: single # splash
-toc: true
+toc: false
 toc_label: "Table of Contents"
 image: /img/Barcelona.png/
 author_profile: true

@@ -2,7 +2,7 @@
 title: Origin Story
 permalink: /Origin Story/
 layout: single # splash
-toc: true
+toc: false
 toc_label: "Table of Contents"
 image: /img/Barcelona.png/
 author_profile: true
