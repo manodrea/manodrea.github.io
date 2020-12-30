@@ -16,10 +16,7 @@ Note : eCommerce features are currently not yet available
 <span style="color: #f2cf4; font-family: Babas; font-size: 2em;">**JASMINCENSE**</span> 
 
 <br>
-
-![](/img/Barcelona.png) 
-
-another test    
+  
 
 ![](./img/Jasmincense.jpg) 
 
