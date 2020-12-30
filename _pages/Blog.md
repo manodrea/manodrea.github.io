@@ -8,9 +8,9 @@ image: /img/Barcelona.png/
 author_profile: true
 ---
 
-> Welcome to my site's blog. I plan to using this platform to start an informational blog. I am particularly interested in botanical and perfume history so I plan to create a series of entries that I call "Ode to a Note". Each entry will explore a little history and list of factoids of botanical notes that I like to use, with a little personal commentary. 
+> Welcome to my site's blog: I am particularly interested in botany with some specification in fragrant plants - I am creating a series of entries that I call "Ode to a Note". Each entry will explore a little history and some interesting factoids that I encounter in my research of botanical species that I, and many others, like to use to for fragrance or to just admire. Note that this space doubles as a journal, so information may be continually updated or corrected. Occasionally I may post opinion pieces (Thoughts), personal stories and photographs from my travels ()
 
-<h1>Latest Posts</h1>
+<h1>Latest Blog Posts</h1>
 
 <ul>
   {% for post in site.posts %}
