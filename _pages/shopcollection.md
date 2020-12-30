@@ -17,8 +17,7 @@ Note : eCommerce features are currently not yet available
 
 <br>
 
-![](../img/jasmincense.jpg) 
-
+![](../img/jasmincense.png) 
 
 <br>
 
