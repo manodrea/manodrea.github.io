@@ -12,11 +12,6 @@ author_profile: true
 
  ![](/img/Barcelona.png) 
 
-![](./img/jasmincense.jpg) 
-
-test
-
-![](/img/jasmincense.jpg) 
 
 > My initial delve into the study of natural oils and bespoke perfumery was influenced by my experiences in Argentine tango and experiencing a plethora of the natural and perfumed smells of men and women dancing at dusk together in the ronda (a circular line of dance by which people dance tango socially in milongas, a style of venue that originated in Buenos Aires). While dancing in a very close embrace, I was intrigued by the diversity of personal scent and that no fragrance smells exactly alike on any particular person. Here, I strive to create botanical-based fragrances that convey the most unique experiences and as natural as possible: free from parabens, petrochemicals, glycols, or harmful synthetic chemicals.
 
