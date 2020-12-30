@@ -13,11 +13,13 @@ Note : eCommerce features are currently not yet available
 ***
 
 <center> 
-<span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> <center>
+<span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> 
 
 <br>
 
-![](/img/jasmincense.jpg) 
+![](../img/jasmincense.jpg) 
+
+<left>
 
 
 <p> Description : Jasmincense is a botanical perfume, whose notes are primarily based on the marriage of Jasmine Grandiflorium and Frankincense. Jasmine flowers in bloom are sultry, rich, and nocturnal. Frankincense is spiritual, serene, and diurnal. The result is a soft and calming sensation, suitable for meditation in the day or relaxation at night. </p>
