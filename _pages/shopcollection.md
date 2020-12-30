@@ -12,7 +12,6 @@ author_profile: true
 
 ***
 
-<p align="center">
 
 # <span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> 
 
