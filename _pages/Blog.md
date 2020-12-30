@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-> I am pretty reluctant to make videos, however I do quite like the idea of using this platform to start a blog. I am particularly interested in botanical and perfume history so I plan to create a series of entries that I call "Ode to a Note". Each entry will explore a little history of a botanical note with a little personal commentary. 
+> I am pretty reluctant to make videos, however I do quite like the idea of using this platform to start an informational blog. I am particularly interested in botanical and perfume history so I plan to create a series of entries that I call "Ode to a Note". Each entry will explore a little history and list of factoids of botanical notes that I like to use, with a little personal commentary. 
 
 
 ***
