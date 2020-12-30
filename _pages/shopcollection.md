@@ -16,14 +16,14 @@ author_profile: true
 
 <span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> 
 
+
  ![](/img/Jasmincense.jpg) 
 
-Description : Jasmincense is a botanical perfume, whose notes are primarily based on the marriage of Jasmine Grandiflorium and Frankincense. Jasmine flowers in bloom are sultry, rich, and nocturnal. Frankincense is spiritual, serene, and diurnal. The result is a soft and calming scent, suitable for meditation in the day or relaxation at night. 
 
-Jasmincense is completely botanical and alchohol-free, featuring jojoba oil that locks moisture in the skin without leaving a single trace of residue. All ingredients are completely natural, no synthetics.
+> Description : Jasmincense is a botanical perfume, whose notes are primarily based on the marriage of Jasmine Grandiflorium and Frankincense. Jasmine flowers in bloom are sultry, rich, and nocturnal. Frankincense is spiritual, serene, and diurnal. The result is a soft and calming scent, suitable for meditation in the day or relaxation at night. 
+
+> Jasmincense is completely botanical and alchohol-free, featuring jojoba oil that locks moisture in the skin without leaving a single trace of residue. All ingredients are completely natural, no synthetics.
 
 
-Personal Note :
-
-This scent is quite special to me and I use this myself for relaxing activities. For this piece of my collection I use top grade green hojari sacred frankincense, which is ground and processed by my own hand.
+> Personal Note :This scent is quite special to me and I use this myself for relaxing activities. For this piece of my collection I use top grade green hojari sacred frankincense, which is ground and processed by my own hand.
 
