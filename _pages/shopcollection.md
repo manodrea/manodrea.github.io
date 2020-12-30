@@ -17,7 +17,9 @@ Note : eCommerce features are currently not yet available
 
 <br>
 
+![](/img/Barcelona.png) 
 
+another test    
 
 ![](./img/jasmincense.jpg) 
 
