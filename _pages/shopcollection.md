@@ -8,17 +8,17 @@ image: /img/Barcelona.png/
 author_profile: true
 ---
 
-> eCommerce features currently available not yet available, but do stay tuned :) 
+> Note : eCommerce features currently available not yet available
 
 ***
 
-# <p align="center">
+#<p align="center">
 
 <span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> 
 
 
 
-![](/img/Jasmincense.jpg) 
+![](/img/Jasmincense.png) 
 
 
 
