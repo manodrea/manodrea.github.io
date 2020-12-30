@@ -15,6 +15,3 @@ author_profile: true
 > Note: Comments are welcome and encouraged, but I personally highly value internet etiquette and this site is my domain. Only positivity, inquiry, or constructive criticism please.
 
 ***
-
-title: Ode to a Note - Patchouli
-
