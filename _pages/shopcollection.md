@@ -23,8 +23,7 @@ Description : Jasmincense is a botanical perfume, whose notes are primarily base
 Jasmincense is completely botanical and alchohol-free, featuring jojoba oil that locks moisture in the skin without leaving a single trace of residue. All ingredients are completely natural, no synthetics.
 
 
-
 Personal Note :
 
-This scent is quite special to me. The key notes subtly transport me to moments in my childhood growing up in Java. For this piece of my collection I use top grade green hojari sacred frankincense, which is ground and processed by my own hand.
+This scent is quite special to me and I use this myself for relaxing activities. For this piece of my collection I use top grade green hojari sacred frankincense, which is ground and processed by my own hand.
 
