@@ -1,11 +1,24 @@
 ---
 title: Thoughts, Journeys, & Favorite Things
 permalink: /Blog/
-layout: single # splash
+layout: default
 toc: true
 toc_label: "Table of Contents"
 image: /img/Barcelona.png/
 author_profile: true
+
+---
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 ---
 
 
@@ -13,5 +26,4 @@ author_profile: true
 
 
 ***
-
 
