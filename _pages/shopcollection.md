@@ -18,7 +18,7 @@ author_profile: true
 
 <br>
 
-![Jasmincense](/img/Jasmincense.png) 
+![](../img/jsmincense.jpg) 
 
 
 
