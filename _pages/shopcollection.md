@@ -18,7 +18,7 @@ Note : eCommerce features are currently not yet available
 <br>
 
 
-
+ include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %
 
 ![](../img/jasmincense.jpg) 
 > ## **Description** :
@@ -30,4 +30,5 @@ Note : eCommerce features are currently not yet available
 
 >## **Personal Note**: 
 >This one is quite special to me, I like to use this for relaxing or meditative activities. For this piece of my collection, I use top grade green hojari sacred frankincense that is ground and treated by my own hand.
+
 
