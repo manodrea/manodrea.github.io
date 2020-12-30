@@ -8,19 +8,16 @@ image: /img/Barcelona.png/
 author_profile: true
 ---
 
-> Note : eCommerce features currently available not yet available
+Note : eCommerce features currently available not yet available
 
 ***
 
-<p align="center">
-
-
- <span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> 
+<center> 
+<span style="color: #f2cf4; font-family: Babas; font-size: 2em;">JASMINCENSE</span> <center>
 
 <br>
 
 ![](../img/jasmincense.jpg) 
-
 
 
 
