@@ -12,15 +12,16 @@ It was a most highly valued commodity since early civilization, popularly known 
 
 And perhaps the universial recognition of this resin as a calming incense and mild consciousness altering substance is not without scientific validity. In 2008, researchers at John Hopkins University investigated frankincense as a potential natural anti-depressive substance. They found that a major component (incensole acetate) stimulated a specific ion receptor in the central nervous system associated with the perception of warmth on the skin and vasoregulation. However, it is also important to note that well-designed human clinical trials have not yet been done on frankincense (which is oddly true for many other botanical products). Though a select few researchers continue to explore this area, the extent of these effects on humans and an observable mechanism of action is still a mystery.
 
+Test
 
-![](/img/boswellia.png) 
+![](/img/boswellia.jpg) 
 
 
 The scent of natural frankincense is both light and complex, slightly sweet and very softly reminiscent of pine. There are about different varieties of frankincense. Thirteen well known species of the Boswellia tree, but only a portion of those are viable from which to harvest this resin. Not to mention, there are vastly different qualities of resin depending on purity, farming region, and contamination with boswellian wood. My favorite is the classic green hojari or "sacred frankincense", originating mostly in Oman from the species <em> Boswellia Sacra </em> . Frankincense oil is sold commonly but the quality is often suspect and are often sold by exploitative multi-level-marketing corporations that prey on the lack of knowledge of others. For that reason, I have always enjoy sourcing it directly on my own and grinding my own resins by hand. One of my botanical perfumes, which I decided to fondly name <em> Jasmincense </em>, features an extensive amount of hojari that I process with my own hands.
 
 When I am working closely with it at high concentrations, I tend to sense an extremely mild and relaxed body high similar to that experienced with CBD, and the slightest increase in heart rate (similar to standing up after sitting for a long time). Of course I am certainly not making any broad claims about any health effects and everyone's personal experience with certain fragrances and other substances can be quite different. But it is certainly an interesting sensation that I don't experience when working with other materials. As for me, I also view frankincense as a serene and diurnal fragrance and most fitting for use in the daytime. It seems a fitting resin to have a history associated with the greek god of the sun - not a blazing fire, but rather a like a soft and spiritual hearth. Like certain forms of classical music, the scent tends to put me in a state of heightened mental clarity and relaxation. 
 
-![](/img/frankincense.png) 
+![](/img/frankincense.jpeg) 
 
 Other notes : 
 
