@@ -4,7 +4,7 @@ author: Andrea
 author_profile: true
 ---
 
-<font size="4">
+<font size="6">
 
 <em> "Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." <br> - Oscar Wilde, The Happy Prince </em>
 
