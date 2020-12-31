@@ -33,15 +33,16 @@ Other notes :
 
 <br>
 
-# Sources:
+# Some Sources:
+
 Iamblichus The Life of Pythagoras 21.98, λιβανωτοῦ in the text.
 
 Moussaieff A, Rimmerman N, Bregman T, et al. Incensole acetate, an incense component, elicits psychoactivity by activating TRPV3 channels in the brain. FASEB J. 2008;22(8):3024-3034. doi:10.1096/fj.07-101865
 
-https://www.history.com/news/a-wise-mans-cure-frankincense-and-myrrh
+[History.com, A Wise Man's Cure](https://www.history.com/news/a-wise-mans-cure-frankincense-and-myrrh)
 
-Business Insider Doc : Why Frankincense and Myrrh Are So Expensive
+[Business Insider Doc : Why Frankincense and Myrrh Are So Expensive](https://www.businessinsider.com/why-frankincense-and-myrrh-are-so-expensive-2020-10)
 
-https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/
+[National Geographic](https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/)
 
-https://www.nytimes.com/2019/07/05/science/frankincense-trees-collapse.html
+[NYTimes, Frankincense Trees Collapse](https://www.nytimes.com/2019/07/05/science/frankincense-trees-collapse.html)
