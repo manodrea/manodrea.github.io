@@ -20,6 +20,8 @@ The scent of natural frankincense is both light and complex, slightly sweet and 
 
 When I am working closely with it at high concentrations, I tend to sense an extremely mild and relaxed body high similar to that experienced with CBD, and the slightest increase in heart rate (similar to standing up after sitting for a long time). Of course I am certainly not making any broad claims about any health effects and everyone's personal experience with certain fragrances and other substances can be quite different. But it is certainly an interesting sensation that I don't experience when working with other materials. As for me, I also view frankincense as a serene and diurnal fragrance and most fitting for use in the daytime. It seems a fitting resin to have a history associated with the greek god of the sun - not a blazing fire, but rather a like a soft and spiritual hearth. Like certain forms of classical music, the scent tends to put me in a state of heightened mental clarity and relaxation. 
 
+![](/img/frankincense.png) 
+
 Other notes : 
 
 - Today, the Roman Catholic church uses an approximate 50 metric tons of frankincense per year
