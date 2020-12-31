@@ -8,5 +8,4 @@ With woodbine, many a perfume breath'd
 From plants that wake when others sleep, 
 From timid jasmine buds, that keep their odour to themselves all day,
 But, when sunlight dies away let the delicious secret out 
-To every breeze that roams about." 
-- Thomas Moore, Lalla Rookh </em>
+To every breeze that roams about." - Thomas Moore, Lalla Rookh </em>
