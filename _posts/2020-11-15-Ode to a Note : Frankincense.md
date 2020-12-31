@@ -4,11 +4,10 @@ author: Andrea
 author_profile: true
 ---
 
-<font size="6">
 
 <em> "Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." <br> - Oscar Wilde, The Happy Prince </em>
 
-Frankincense is a resin harvested from the bark of Boswellia trees, historically used as incense as far back as the ancient Middle East. Most commonly produced in Africa and Saudi Arabia to this day, farmers create incisions in Boswellia trees and collect the crystallized matter in the form of what are called resin tears. The method of farming has largely stayed the same. In Somalia, for example, very tiny piece of resin is painstakingly harvested from bark and sorted by hand.
+Frankincense is a resin harvested from the bark of Boswellia trees, historically used as incense as far back as the ancient Middle East. Most commonly produced in Africa and Saudi Arabia, farmers create incisions in Boswellia trees and collect the crystallized matter in the form of what are called resin tears. The method of farming has largely stayed the same. In Somalia, for example, very tiny piece of resin is painstakingly harvested from bark and sorted by hand.
 
 It was a most highly valued commodity since early civilization, popularly known for being mentioned in the Bible as one of the gifts offered to Jesus by the three wise kings. Dating back to well before that time, by about four thousand years, frankincense was believed by ancient Egyptians to indicate the presence of the gods. Extensive and grueling trade routes and expansions of western civilization were motivated by the search and trade of frankincense and myrrh. In ancient Greece, these tears were revered as one of the most extravagant gifts to the gods, and to Apollo in particular. Notably, the polymath Pythagoras was recorded to offer fumigations of frankincense during his tenure as a priest of Apollo. In modern religions, it is known to be used extensively by the catholic church.
 
