@@ -29,7 +29,7 @@ Other notes :
 
 - Historians estimate that 300 tons of incense per year were carried on the backs of camels across the dessert routes connecting across Saudi Arabia, Iran, Ethopia at the height of its use as a luxury in ancient times  (as well as across the sea to India)
 
-- Global fair trade and labor policies as well as sustainable innovations in Boswellia farming will be necessary in the near future if we are to continue consuming this precious resource. I recommend this article: https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/ however it also features DoTerra representatives, and I consider DoTerra's MLM-like business model to be rather unscrupulous.
+- Global fair trade and labor policies as well as sustainable innovations in Boswellia farming will be necessary in the near future if we are to continue consuming this precious resource. I recommend this article: https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/ however it also features DoTerra representatives and DoTerra's business model is very exploitative (just look up "MLM scams" in case you're unsure).
 
 
 <br>
