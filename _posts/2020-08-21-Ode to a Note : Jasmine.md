@@ -3,10 +3,10 @@ layout: single
 author: Andrea
 author_profile: true
 ---
-An apple is a sweet, edible fruit produced by an apple tree.
-
-Apple trees are cultivated worldwide, and are the most widely grown species in
-the genus Malus. The tree originated in Central Asia, where its wild ancestor,
-Malus sieversii, is still found today. Apples have been grown for thousands of
-years in Asia and Europe, and were brought to North America by European
-colonists.
+<em> "Twas midnight through the lattice wreath'd
+With woodbine, many a perfume breath'd
+From plants that wake when others sleep, 
+From timid jasmine buds, that keep their odour to themselves all day,
+But, when sunlight dies away let the delicious secret out 
+To every breeze that roams about." 
+- Thomas Moore, Lalla Rookh </em>
