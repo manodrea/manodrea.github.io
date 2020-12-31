@@ -4,7 +4,7 @@ author: Andrea
 author_profile: true
 ---
 
-<em> "Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." - Oscar Wilde, The Happy Prince </em>
+<em> "Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." <br> - Oscar Wilde, The Happy Prince </em>
 
 Frankincense is a resin harvested from the bark of Boswellia trees, historically used as incense as far back as the ancient Middle East. Most commonly produced in Africa and Saudi Arabia to this day, farmers create incisions in Boswellia trees and collect the crystallized matter in the form of what are called resin tears. The method of farming has largely stayed the same. In Somalia, for example, very tiny piece of resin is painstakingly harvested from bark and sorted by hand.
 
