@@ -4,6 +4,8 @@ author: Andrea
 author_profile: true
 ---
 
+<font size="2">
+
 <em> "Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." <br> - Oscar Wilde, The Happy Prince </em>
 
 Frankincense is a resin harvested from the bark of Boswellia trees, historically used as incense as far back as the ancient Middle East. Most commonly produced in Africa and Saudi Arabia to this day, farmers create incisions in Boswellia trees and collect the crystallized matter in the form of what are called resin tears. The method of farming has largely stayed the same. In Somalia, for example, very tiny piece of resin is painstakingly harvested from bark and sorted by hand.
@@ -27,7 +29,7 @@ Other notes :
 
 - Historians estimate that 300 tons of incense per year were carried on the backs of camels across the dessert routes connecting across Saudi Arabia, Iran, Ethopia at the height of its use as a luxury in ancient times  (as well as across the sea to India)
 
-- Global fair trade and labor policies as well as sustainable innovations in Boswellia farming will be necessary in the near future if we are to continue consuming this precious resource. I recommend this article: https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/ however it also features DoTerra representatives and DoTerra's business model is very exploitative (just look up "MLM scams" in case you're unsure).
+- Global fair trade and labor policies as well as sustainable innovations in Boswellia farming will be necessary in the near future if we are to continue consuming this precious resource. I recommend [this article](https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/). however it also features DoTerra representatives and DoTerra's business model is very exploitative (just look up "MLM scams" in case you're unsure).
 
 
 <br>
