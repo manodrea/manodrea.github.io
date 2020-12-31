@@ -12,8 +12,6 @@ It was a most highly valued commodity since early civilization, popularly known 
 
 And perhaps the universial recognition of this resin as a calming incense and mild consciousness altering substance is not without scientific validity. In 2008, researchers at John Hopkins University investigated frankincense as a potential natural anti-depressive substance. They found that a major component (incensole acetate) stimulated a specific ion receptor in the central nervous system associated with the perception of warmth on the skin and vasoregulation. However, it is also important to note that well-designed human clinical trials have not yet been done on frankincense (which is oddly true for many other botanical products). Though a select few researchers continue to explore this area, the extent of these effects on humans and an observable mechanism of action is still a mystery.
 
-Test
-
 ![](/img/boswellia.jpg) 
 
 

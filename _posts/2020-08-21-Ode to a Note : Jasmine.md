@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 author: Andrea
+author_profile: true
 ---
 An apple is a sweet, edible fruit produced by an apple tree.
 
