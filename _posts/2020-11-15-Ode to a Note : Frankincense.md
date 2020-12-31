@@ -4,13 +4,13 @@ author: Andrea
 author_profile: true
 ---
 
-"Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." - Oscar Wilde, The Happy Prince
+<em> "Love is wiser than Philosophy, though he is wise, and mightier than Power, though he is mighty... His lips are sweet as honey and his breath is like frankincense." - Oscar Wilde, The Happy Prince </em>
 
 Frankincense is a resin harvested from the bark of Boswellia trees, historically used as incense as far back as the ancient Middle East. Most commonly produced in Africa and Saudi Arabia to this day, farmers create incisions in Boswellia trees and collect the crystallized matter in the form of what are called resin tears. The method of farming has largely stayed the same. In Somalia, for example, very tiny piece of resin is painstakingly harvested from bark and sorted by hand.
 
-It was a most highly valued commodity since early civilization, popularly known for being mentioned in the Bible as one of the gifts offered to Jesus by the three wise kings. Dating back to well before that time, by about four thousand years, frankincense was believed by ancient Egyptians to indicate the presence of the gods. Extensive and grueling trade routes and expansions of western civilization were motivated by the search and trade of frankincense and myrrh. In ancient Greece, these tears were offered as one of the most extravagant gift to the gods and to Apollo in particular. Notably, the polymath Pythagoras was recorded to offer fumigations of frankincense as a priest of Apollo. In modern religions, it is known to be used extensively by the catholic church.
+It was a most highly valued commodity since early civilization, popularly known for being mentioned in the Bible as one of the gifts offered to Jesus by the three wise kings. Dating back to well before that time, by about four thousand years, frankincense was believed by ancient Egyptians to indicate the presence of the gods. Extensive and grueling trade routes and expansions of western civilization were motivated by the search and trade of frankincense and myrrh. In ancient Greece, these tears were revered as one of the most extravagant gifts to the gods, and to Apollo in particular. Notably, the polymath Pythagoras was recorded to offer fumigations of frankincense during his tenure as a priest of Apollo. In modern religions, it is known to be used extensively by the catholic church.
 
-And perhaps the universial recognition of this resin as calming incense and mild consciousness altering substance is not without scientific validity. In 2008, researchers at John Hopkins University investigated frankincense as a potential natural anti-depressive substance. They found that a major component (incensole acetate) stimulated a specific ion receptor in the central nervous system associated with the perception of warmth on the skin and vasoregulation. However, it is also important to note that well-designed human clinical trials have not been done on frankincense (which is oddly true for many other natural products). Though a select few researchers continue to explore this area, the extent of these effects on humans and an observable mechanism of action is still a mystery.
+And perhaps the universial recognition of this resin as a calming incense and mild consciousness altering substance is not without scientific validity. In 2008, researchers at John Hopkins University investigated frankincense as a potential natural anti-depressive substance. They found that a major component (incensole acetate) stimulated a specific ion receptor in the central nervous system associated with the perception of warmth on the skin and vasoregulation. However, it is also important to note that well-designed human clinical trials have not yet been done on frankincense (which is oddly true for many other botanical products). Though a select few researchers continue to explore this area, the extent of these effects on humans and an observable mechanism of action is still a mystery.
 
 
 ![](/img/boswellia.png) 
@@ -29,7 +29,7 @@ Other notes :
 - Global fair trade and labor policies as well as sustainable innovations in Boswellia farming will be necessary in the near future if we are to continue consuming this precious resource. I recommend this article: https://www.nationalgeographic.com/animals/2019/12/frankincense-trees-declining-overtapping/ however it also features DoTerra representatives, and I consider DoTerra's MLM-like business model to be rather unscrupulous.
 
 
-
+<br>
 
 # Sources:
 Iamblichus The Life of Pythagoras 21.98, λιβανωτοῦ in the text.
